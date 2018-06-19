@@ -1,6 +1,6 @@
 # GIT Migration
 Migrating from one GIT server to another can be a pain.
-This script will hopefully make it more confortable.
+This script will hopefully make it more confortable by copying the whole repository including branches etc.
 
 Usage:
 1. Create all GIT repos on the new server
