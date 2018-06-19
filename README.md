@@ -3,10 +3,10 @@ Migrating from one GIT server to another can be a pain.
 This script will hopefully make it more confortable.
 
 Usage:
-0. Create all GIT repos on the new server
-1. Add all GIT repo URL's you wish to migrate to "git_migrate"
-2. Add all GIT repo URL's of the new server in the same order
-3. Run migrate.sh
+1. Create all GIT repos on the new server
+2. Add all GIT repo URL's you wish to migrate to "git_migrate"
+3. Add all GIT repo URL's of the new server in the same order
+4. Run migrate.sh
 
 Output:
 ```
