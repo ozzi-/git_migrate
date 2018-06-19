@@ -1,0 +1,2 @@
+ssh://gogs@gogs.new.ch:2222/hw/repo.git
+ssh://gogs@gogs.new.ch:2222/development/tool.git
